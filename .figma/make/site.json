@@ -1,0 +1,19 @@
+{
+  "title": "Arul Mozhi JB | Aspiring Product Manager · AI · Quantum-Inspired Computing",
+  "description": "Portfolio of Arul Mozhi JB, an MBA candidate and aspiring Product Manager with a BCA background, exploring AI, Generative AI and Quantum-Inspired Computing through product concepts, UX and product strategy.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "customScripts": {
+    "headStart": "<script>(function(){try{var t=localStorage.getItem('amjb-theme');if(t!=='light'){t='dark'}document.documentElement.dataset.theme=t;}catch(e){document.documentElement.dataset.theme='dark'}})();</script><meta name=\"theme-color\" content=\"#07080b\" /><meta name=\"author\" content=\"Arul Mozhi JB\" /><link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\" /><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" /><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin /><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Manrope:wght@500;600;700;800&display=swap\" />",
+    "headEnd": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Arul Mozhi JB\",\"jobTitle\":\"MBA Candidate, Aspiring Product Manager\",\"email\":\"mailto:arulmozhijb2004@gmail.com\",\"url\":\"https://arulmozhijb.github.io/\",\"sameAs\":[\"https://www.linkedin.com/in/arulmozhijb\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Coimbatore\",\"addressRegion\":\"Tamil Nadu\",\"addressCountry\":\"IN\"},\"alumniOf\":[{\"@type\":\"CollegeOrUniversity\",\"name\":\"Kongu Arts and Science College\"}],\"knowsAbout\":[\"Product Management\",\"Artificial Intelligence\",\"Generative AI\",\"Quantum-Inspired Computing\",\"UX Design\"]}</script>"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
